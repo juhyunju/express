@@ -29,7 +29,7 @@
   }
 }
 ```
-express 와 nodemon 
+express 와 nodemon 설치
 ```
 # npm i express 
 
