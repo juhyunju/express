@@ -29,6 +29,7 @@
   }
 }
 ```
+express 와 nodemon 
 ```
 # npm i express
 
