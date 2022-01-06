@@ -31,7 +31,7 @@
 ```
 express 와 nodemon 
 ```
-# npm i express
+# npm i express 
 
 # npm i -D nodemon
 ```
