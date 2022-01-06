@@ -3,11 +3,11 @@
 처음에 실행 할 때
 
 작업할 해당 폴더에 접근 후 
-
+'''
 # npm init // 엔터 연속 클릭 단 프로젝트 이름은 express 로 하지말것.
-
+''' bash
 그 후 생성된 Packge.jsn 파일에 "scripts" 부분에 start 추가
-```
+``` javascript
 {
   "name": "ju-express",
   "version": "1.0.0",
